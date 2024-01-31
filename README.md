@@ -1,7 +1,9 @@
-# Hoopmad
-건강한 삶을 도와주는 개발자가 목표입니다.
+# 🎁 Have a blessed day!
 
-## 💻 Projects
+## 👨‍💻 
+- I'm a junior java developer from Korea.
+
+## 🗂️ Projects
 - [Shoe Basket](https://github.com/hoopmad/ShoeBasket)
 - [냉장고를 부탁해](https://github.com/MultiNDjango/ndjango-django)
 
