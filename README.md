@@ -1,7 +1,7 @@
-# 🎁 Have a blessed day!
-
-## 👨‍💻 
-- I'm a junior java developer from Korea.
+## 👋 Hi!
+- 👨‍💻 Junior java developer from Korea
+- 💡 Always eager to learn something new
+- 🏀 Hooper at heart
 
 ## 🗂️ Projects
 - [Shoe Basket](https://github.com/hoopmad/ShoeBasket)
